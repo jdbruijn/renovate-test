@@ -8,7 +8,7 @@ module.exports = {
     onboardingBranch: `${branchName}/configure`,
     platform: 'github',
     dryRun: false,
-    username: 'jdbruijn-test',
+    username: 'jdbruijn',
     repositories: [
         'jdbruijn/homebrew-caboodle',
     ],
